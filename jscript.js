@@ -23,7 +23,7 @@ console.log( 'Пример 4:' + ' 6 / 3 = ' + devision + ' Ваш ответ ' 
 var userAnswer5 = prompt('Решите пример 6 % 3');
 console.log( 'Пример 5:' + ' 6 % 3 = ' + percent + ' Ваш ответ ' +  userAnswer5);
 
-var userAge = prompt('Откройте консоль для просмотра');
+alert('Откройте консоль для просмотра');
 
 
 
